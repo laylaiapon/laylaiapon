@@ -1,24 +1,23 @@
-# Olá, eu sou a Layla! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23&height=220&section=header&text=Layla%20Iaponã&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Banner Layla" />
+</p>
 
-### 👩‍💻 Sobre Mim
-- 🎓 Estudante de **Desenvolvimento de Sistemas no SENAI**.
-- 🚀 Focada em desenvolvimento **Full-Stack Web** e **Mobile**.
-- 💡 Gosto de criar soluções que resolvem problemas reais e construir interfaces limpas e eficientes.
+<p align="center">
+  <font size="4">👋 Hello World, I'm Layla Iaponã!</font>
+</p>
 
-### 🛠️ Tecnologias e Ferramentas
-- **Frontend:** HTML5, CSS3, JavaScript, React Native (Expo)
-- **Backend & Infra:** Node.js, Git & GitHub
-- **Banco de Dados:** MySQL, Supabase
-- **Design:** Canva, ImgBB
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?q=80&w=400&auto=format&fit=crop" width="380" alt="Ilustração Dev" />
+</p>
 
-### 📂 Projetos em Destaque
-- **Loja Draxx:** Desenvolvimento de um e-commerce de roupas completo, cuidando desde a identidade visual até o backend.
-- **App de Busca:** Projeto mobile voltado para ajudar na localização de pessoas desaparecidas.
+```text
+  ╔═══ Sobre Mim ═══╗  
 
-### 📈 Meus Objetivos
-- Aprofundar conhecimentos em arquitetura de software e segurança cibernética.
-- Praticar conversação em inglês e espanhol.
-
----
-
-📬 **Como me encontrar:** [Seu LinkedIn](https://linkedin.com/in/seu-usuario) | [Seu Email](mailto:seu_email@email.com)
+┌─────────────────────────────────────────┐
+│        LAYLA IAPONÃ  •  DEV             │
+├─────────────────────────────────────────┤
+│  Role    : Full-Stack & Mobile Dev      │
+│  Focus   : Web Apps, Mobile & UI/UX     │
+│  Status  : Estudante no SENAI 📚       │
+│  Passion : Code · Design · Logic        │
+└─────────────────────────────────────────┘
