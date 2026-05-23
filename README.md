@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=220&section=header&text=Layla%20Iaponã&fontSize=56&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20Developer%20%7C%20UI%20Design&descSize=16&descAlignY=62&animation=fadeIn" alt="Banner Layla" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,255,0,0,100&height=250&section=header&text=Habib%20Ur%20Rehman&fontSize=50&fontColor=8A2BE2&animation=twinkling&subText=Frontend%20Developer%20|%20React%20Developer&subTextY=75" width="100%"/>
 </p>
