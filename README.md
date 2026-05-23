@@ -1,8 +1,3 @@
-<div align="center" style="background: linear-gradient(135deg, #3a0ca3, #7b2cbf); padding: 40px 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h1 style="color: #ffffff; font-size: 42px; margin: 0; font-family: Arial, sans-serif; font-weight: bold; letter-spacing: 1px;">
-    Layla Iaponã
-  </h1>
-  <p style="color: #e0aaff; font-size: 16px; margin: 10px 0 0 0; font-family: Arial, sans-serif; word-spacing: 2px;">
-    Full-Stack Developer | Mobile Developer | UI Design
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React%20Developer%20|%20UI%20Expert&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
+</p>
